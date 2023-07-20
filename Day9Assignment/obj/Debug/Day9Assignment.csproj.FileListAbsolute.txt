@@ -1,0 +1,8 @@
+D:\DAY-9\Day9Assignment\Day9Assignment\obj\Debug\Day9Assignment.csproj.AssemblyReference.cache
+D:\DAY-9\Day9Assignment\Day9Assignment\obj\Debug\Day9Assignment.csproj.SuggestedBindingRedirects.cache
+D:\DAY-9\Day9Assignment\Day9Assignment\obj\Debug\Day9Assignment.csproj.CoreCompileInputs.cache
+D:\DAY-9\Day9Assignment\Day9Assignment\bin\Debug\Day9Assignment.exe.config
+D:\DAY-9\Day9Assignment\Day9Assignment\bin\Debug\Day9Assignment.exe
+D:\DAY-9\Day9Assignment\Day9Assignment\bin\Debug\Day9Assignment.pdb
+D:\DAY-9\Day9Assignment\Day9Assignment\obj\Debug\Day9Assignment.exe
+D:\DAY-9\Day9Assignment\Day9Assignment\obj\Debug\Day9Assignment.pdb
